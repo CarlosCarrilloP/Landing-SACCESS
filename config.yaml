@@ -10,9 +10,9 @@ summaryLength: 20
 
 params:
   title: "Saccess"
-  description: "Siguenos en nuestras redes sociales"
+  description: "El Sofware de acceso para tu empresa"
   images: 
-    - "images/hero-image.png"
+    - "images/logo-DIFUMINADO-grande.png" 
 
   logo: "arrow-up.png"
 
